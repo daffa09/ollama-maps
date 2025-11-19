@@ -1,0 +1,8 @@
+fastapi==0.101.1
+uvicorn==0.22.0
+httpx==0.24.1
+python-dotenv==1.0.0
+Flask==2.3.2
+Flask-Cors==4.0.1
+Flask-Limiter==2.9.1
+Flask-Caching==2.0.2
