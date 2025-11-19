@@ -1,4 +1,15 @@
+<!-- portfolio -->
+<!-- slug: ollama-maps -->
+<!-- title: Ollama + Google Maps -->
+<!-- description: Application thats show place using AI recommend + Google Maps -->
+<!-- image: https://github.com/user-attachments/assets/719f67c3-ad2d-4a11-aac1-d0095592efa4 -->
+<!-- tags: python, flask, react, ai, google-cloud, google-maps -->
+
+
+
 # 🌐 Ollama + Google Maps AI Finder
+
+<img width="933" height="906" alt="image" src="https://github.com/user-attachments/assets/719f67c3-ad2d-4a11-aac1-d0095592efa4" />
 
 A modern full-stack application that combines **local LLM (Ollama)** and **Google Maps Places API** to help users find places (restaurants, cafés, etc.) using natural language.
 
